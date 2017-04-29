@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: PHPGIT290417CCM
+  host: PHPGIT290417CCM
+  disk_quota: 1024M
